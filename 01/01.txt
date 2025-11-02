@@ -1,0 +1,11 @@
+Day 33 : Loops & Conditions — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+- Practice Question
+  - Print number 1 to 10
+  - Print only even number using loops & condinional oprator
+  - Print Numbers from 10 to 1 Using loop
+  - Print the Word YES Of 5 Times using loop!
+  - Ask user for a number and say if is positive Or negative 
+  - Ask user age and check user is elible to vote Or not
+  - Print multiplication table of 5 using loop
+  - how to handle edge case in js with if else
