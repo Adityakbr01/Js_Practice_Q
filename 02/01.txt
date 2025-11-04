@@ -1,0 +1,10 @@
+Day 34 : Loops & Conditions — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+- Practice Question
+ - Ask user age and check if eligible to vote or NOT, if age >=18 -> eligible ,else not eligible
+ - Print multiplication table of 5 using loop, e.g -> 5x1=5
+
+ - Count how many numbers between 1 and 15 are greater than 8 Loop and count conditionally.
+ - Ask user for password and print access status Hardcoded correct password. Compare with user input.
+- Level 2 – Slightly Tougher but Logical
+ - Allow only 3 attempts to enter correct password If user gets it right early, stop. If not → “Account locked” using while loop
