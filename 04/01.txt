@@ -1,0 +1,68 @@
+Day 36 : Loops & Functions — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+- Practice Question/Concepts OR Functions in JavaScript
+ - do..while Loop --> The do...while loop executes the code block at least once before checking the Conditions.
+   it is used when you want the loop to run once even if the condition is false
+    
+    - key Points: 
+         - the condition is checked after the loop body executes, so the loop will always run at least once.
+         - syntax:
+            do {
+               // code block to be executed
+            } while (condition);
+ - Recursion in Js --> Recursion mean's a Functions calling itself.
+    - key Points:
+         - A recursive function must have a base case , otherwise it will run indefinitely.
+         - syntax:
+            function recursiveFunction(parameters) {
+               // base case
+               if (condition) {
+                  return value;
+               }
+               // recursive case
+               return recursiveFunction(modifiedParameters);
+            }
+ - Functions arguments and parameters --> Parameters are the variables listed in a function definition.
+                                          Arguments are the actual values passed to the function when it is called.
+    - key Points:
+         - Parameters act as placeholders inside the function and the arguments are the real values supplied during function calls.
+          - syntax:
+              function functionName(parameter1, parameter2) {
+                // function body
+              }
+              functionName(argument1, argument2);
+ - variables Hoisting in Js --> In JavaScript, variable hoisting is a behavior where variable declarations are moved to the top of their containing scope during the compilation phase.
+    - key Points:
+         - Only the declarations are hoisted, not the initializations.
+         - Variables declared with var are hoisted to the top of their function scope, while let and const are hoisted to the top of their block scope but are not initialized.
+          - syntax:
+              console.log(x); // undefined
+              var x = 5;
+
+              console.log(y); // ReferenceError: Cannot access 'y' before initialization
+              let y = 10;          
+ - Functions Hoisting in Js --> Function hoisting is a JavaScript mechanism where function declarations are moved to the top of their containing scope during the compilation phase.
+    - key Points:
+         - Function declarations are fully hoisted, meaning you can call them before they are defined in the code.
+         - Function expressions (including arrow functions) are not hoisted in the same way; they behave like variable assignments.
+          - syntax:
+              console.log(myFunction()); // "Hello, World!"
+              function myFunction() {
+                return "Hello, World!";
+              }
+
+              console.log(myExpression()); // TypeError: myExpression is not a function
+              var myExpression = function() {
+                return "Hello, World!";
+              };                          
+ - Arguments Object in Js --> The arguments object is an array-like object accessible inside functions that contains the values of the arguments passed to that function.
+    - key Points:
+         - It is not a real array, but it has a length property and can be accessed using indices.
+         - It allows functions to handle an arbitrary number of arguments.
+          - syntax:
+              function myFunction() {
+                for (let i = 0; i < arguments.length; i++) {
+                  console.log(arguments[i]);
+                }
+              }
+              myFunction(1, 2, 3); // logs 1, 2, 3             
