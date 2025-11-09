@@ -1,0 +1,42 @@
+# Day 38 : more Functions & arrays — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## - more functions in javascript
+ - 1.Anonymous Functions
+ - 2.higher-order functions
+ - 3.Callback Functions
+ - 4.first class functions
+ - 5.Pure Functions
+ - 6.Impure Functions
+
+## Understanding Scope in JavaScript Functions
+ - 1.Global Scope
+ - 2.Local Scope
+ - 3.Block Scope
+
+## Understanding Closures in JavaScript
+ - 1.What is a Closure?
+ - 2.Uses of Closures
+ - 3.Example of a Closure 
+
+
+## What are Arrays amd how to create in JavaScript?
+## understading how to access elements in array
+## methods on arrays
+ - 1.push()
+ - 2.pop()
+ - 3.shift()
+ - 4.unshift()
+ - 5.Fillter()
+ - 6.indexOf()
+ - 7.spread operator
+
+## Looping through arrays
+ - 1.for loop
+ - 2.foreach loop
+
+## understanding what are the objects in javascript
+ - 1.creating objects
+ - 2.accessing objects
+ - 3.modifying objects
+ - 4.nested objects
+ - 5.object methods
