@@ -1,0 +1,27 @@
+# Day 39 : more Functions & arrays — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+
+## what today learned
+ - timing Events (Overview)
+    - setTimeout()
+    - setInterval()
+    - clearTimeout()
+    - clearInterval()
+ - Operation on Objects (Overview)
+    - freeze()
+    - seal()
+    - destructuring
+    - Objects methods
+    - this keyword
+
+ - Questions (level 1)
+    - Q1. write a function `sayHello()` that prints "Hello, JavaScript!",
+    - Q2. create a function `add(a,b)` that return their sum and print it
+    - Q3. Write a function with defoult parameter `name=Guest` thats prints "Welcome, <name>!"
+    - Q4. Use rest parameter to make a function thats add unlimited numbers and return the sum,print it
+    - Q5. Create an IIFE that prints "I run immediately!"
+    - Q6. make nested function where inner function prints a variable from the outer one
+    - Q7. Create an Array of 5 fruits, Add one at the end and remove one from the beginning, print the final array
+    - Q8. Use a `for` loop to print all elements of an array.
+    - Q9. Create an Object `person` with properties `name`, `age`, and `city`. and print each key's value
+    - Q10. Use `setTimeout` to log `Times up!` after 3 seconds.
