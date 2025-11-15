@@ -1,0 +1,12 @@
+# Day 42 : DOM MANANIPULATION — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## day 42 : Introduction to DOM
+### Document Object Model (DOM)
+  ## Practice Concepts
+    - What is DOM?
+    - selcting elements using JavaScript (querySelector,getElemntById,getElementsByClassName,querySelectorAll)
+    - Changing HTML content using JavaScript (innerHTML, innerText, textContent)
+    - Changing CSS styles using JavaScript (style property)
+    - Event Listeners (addEventListener)
+
+    -Task Create an Counter app
