@@ -1,0 +1,4 @@
+# Day 46 : DOM MANANIPULATION — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## day 46 : More on Dom Manipulation
+ - create an instgarm post and make  Instagram Like effect using DOM Manipulation
