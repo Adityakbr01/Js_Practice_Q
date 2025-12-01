@@ -1,0 +1,11 @@
+# Day 44 : DOM MANANIPULATION — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## day 44 : More on Dom Manipulation
+  ## Practice Concepts
+   - document.createElement()
+   - element.appendChild()
+
+
+## Task 1 : create elements using createElement and append them to the main OR body and style the randome postion of the text using css properties
+
+
