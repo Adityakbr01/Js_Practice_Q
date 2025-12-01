@@ -1,0 +1,109 @@
+/* General Reset and Box Sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #0d0d0d;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    overflow: hidden;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card {
+    width: clamp(300px, 80vw, 450px);
+    background-color: #1f1f1f;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.05);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card p {
+    font-size: 1.1em;
+    margin-bottom: 25px;
+    color: #b0b0b0;
+}
+
+
+.outer {
+    width: 100%;
+    height: 15px;
+    background: #3a3a3a;
+    border-radius: 50px;
+    overflow: hidden;
+
+}
+
+.inner {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, #ff9100, #ff5733);
+    border-radius: 50px;
+    transition: width 0.3s ease-out;
+}
+
+
+.bottom {
+    width: 100%;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+.percentage {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #ff5733;
+    flex-grow: 1;
+    text-align: left;
+}
+
+.downloadbtn {
+    padding: 12px 25px;
+    border-radius: 8px;
+    background-color: #ff5733;
+    color: #ffffff;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    font-size: 1em;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+    border: 2px solid transparent;
+}
+
+.downloadbtn:hover {
+    background-color: #e54d2a;
+    transform: translateY(-1px);
+    cursor: pointer;
+}
+
+.downloadbtn:active {
+    transform: translateY(0);
+}

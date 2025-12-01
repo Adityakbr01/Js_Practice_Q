@@ -1,0 +1,13 @@
+# Day 45 : DOM MANANIPULATION — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## day 45 : More on Dom Manipulation
+  ## Practice Concepts
+   - setTimeout()
+   - setInterval()
+
+ 
+## Task 1 : Create a downloading Animation using setInterval and setTimeout
+ - Create a card in the center of the screen with a download button.
+ - On clicking the download button, start a downloading animation using setInterval.
+ - The downloading animation should show a progress bar that fills up over time.
+ - Once the download is complete, display a message indicating that the download is finished.
