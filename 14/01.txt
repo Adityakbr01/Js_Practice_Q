@@ -1,4 +1,6 @@
-# Day 46 : DOM MANANIPULATION — 2.0 Job Ready AI Powered Cohort (Sheryians)
+# Day 47 : DOM MANANIPULATION — 2.0 Job Ready AI Powered Cohort (Sheryians)
 
-## day 46 : More on Dom Manipulation
- - create an instgarm post and make  Instagram Like effect using DOM Manipulation
+## day 47 : More on Dom Manipulation
+ - create an card using foreach loop from an array of objects and append it to the DOM
+ - revise foreach loop
+ - revise DOM manipulation methods
