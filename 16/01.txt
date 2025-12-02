@@ -1,0 +1,7 @@
+# Day 49 : DOM MANANIPULATION — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## day 49 : More on Dom Manipulation
+ - document.querySelectorAll()
+ - select all h1 and change perticular h1 using index
+ - revise foreach loop with node list
+ - revise childNodes filler
