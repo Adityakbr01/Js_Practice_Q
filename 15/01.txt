@@ -1,0 +1,15 @@
+# Day 48 : DOM MANANIPULATION & Event Listner — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## day 48 : More on Dom Manipulation & Event Listner
+ ### Practice 
+    - click event using event listner
+    - dblclick event using event listner
+    - mouseenter event using event listner
+    - mouseleave event using event listner
+    - mousemove event using event listner
+    - keydown event using event listner
+    - wheel event using event listner
+
+    ### Theory
+     - Create an custom cursor using mousemove event
+     - use keydown event to detect which key is pressed and make it virtual piano
