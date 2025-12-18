@@ -1,0 +1,7 @@
+# Day 52 : Spotlight Effect — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## day 52 : Spotlight Effect
+ - learn about spotlight effect in css
+ - create a spotlight effect using mousemove event
+ - practice more on dom manipulation
+ - create a small project using spotlight effect and dom manipulation
