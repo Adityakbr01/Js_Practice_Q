@@ -1,0 +1,11 @@
+# Day 55 : Advance CSS Class : 3 — 2.0 Job Ready AI Powered Cohort (Sheryians)
+ - Box Shadow
+ - Text Shadow
+ - conic Gradient
+ - key frames Animation - dive deep
+ - @Property - dive deep
+
+ - :has()
+
+ Task : Create card with box shadow , text shadow , conic gradient background , key frames animation on hover and use :has() to change style of parent when child is hovered.
+ Task : Create a button with box shadow , text shadow , conic gradient background , key frames animation on hover and use :has() to change style of parent when child is focused. Task : Create a notification banner with box shadow , text shadow , conic gradient background , key frames animation on hover and use :has() to change style of parent when child is hovered. Task : Create a profile card with box shadow , text shadow , conic gradient background , key frames animation on hover and use :has() to change style of parent when child is hovered. Task : Create a footer with box shadow , text shadow , conic gradient background , key frames animation on hover and use :has() to change style of parent when child is hovered. Task : Create a header with box shadow , text shadow , conic gradient background , key frames animation on hover and use :has() to change style of parent when child is hovered.                    

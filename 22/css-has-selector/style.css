@@ -1,0 +1,50 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.balls{
+    display: flex;
+    gap: 10px;
+    border: 3px solid white;
+}
+
+.ball {
+    height: 50px;
+    width: 50px;
+    transition: all 0.3s linear;
+    border-radius: 50%;
+}
+
+.red {
+    background-color: rgb(142, 16, 16);
+}
+
+.blue {
+    background-color: rgb(17, 17, 97);
+}
+
+.green {
+    background-color: rgb(13, 80, 13);
+}
+
+.balls:has(.green){
+    background-color: pink;
+}
+
