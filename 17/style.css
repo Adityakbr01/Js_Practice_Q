@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+}
+
+body {
+  background: #0f0f0f;
+  min-height: 100vh;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+#main{
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  /* background: #d85c5c; */
+}
+
+.elem{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+button{
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}

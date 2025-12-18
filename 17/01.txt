@@ -1,0 +1,7 @@
+# Day 50 : DOM MANANIPULATION — 2.0 Job Ready AI Powered Cohort (Sheryians)
+
+## day 50 : More on Dom Manipulation
+ - document.querySelectorAll()
+ - select all h1 and change perticular h1 using index
+ - revise diffrence between foreach and map and filter
+ - create instagram reel page using dom manipulation
