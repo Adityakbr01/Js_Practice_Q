@@ -1,0 +1,8 @@
+# Day 56 : Advance JS Class : 1 — 2.0 Job Ready AI Powered Cohort (Sheryians)
+ - Introduction to OOPS in JS
+    - What is OOPS
+    - Why OOPS
+    - Principles of OOPS
+    - understanding Class and Object
+    - understanding Constructor and this keyword
+    - understanding Methods in Class
