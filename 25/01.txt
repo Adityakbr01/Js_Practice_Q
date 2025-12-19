@@ -1,0 +1,24 @@
+# Day 58 : Advance JS Class : 3 — 2.0 Job Ready AI Powered Cohort (Sheryians)
+ - Recap of OOPS in JS
+    - What is OOPS
+    - Why OOPS
+    - Principles of OOPS
+    - understanding Class and Object
+    - understanding Constructor and this keyword
+    - understanding Methods in Class
+    - understanding prototype and prototype chain
+    - understanding Inheritance
+    - function -> window
+    - es5 function inside Object -> Object
+    - es6 function inside Object -> window
+    - es5 function inside es5 function inside Object -> window
+    - es6 function inside es5 function inside Object -> Object
+    - understanding super keyword
+    - understanding call bind and apply methods
+ - Advanced OOPS Concepts
+    - Class expressions
+    - hoisting 
+    - Inheritance
+    - Getters and Setters
+
+ - Practice some Questions on OOPS and Advanced OOPS Concepts in JS   
