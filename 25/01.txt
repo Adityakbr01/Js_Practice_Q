@@ -1,24 +1,11 @@
-# Day 58 : Advance JS Class : 3 — 2.0 Job Ready AI Powered Cohort (Sheryians)
- - Recap of OOPS in JS
-    - What is OOPS
-    - Why OOPS
-    - Principles of OOPS
-    - understanding Class and Object
-    - understanding Constructor and this keyword
-    - understanding Methods in Class
-    - understanding prototype and prototype chain
-    - understanding Inheritance
-    - function -> window
-    - es5 function inside Object -> Object
-    - es6 function inside Object -> window
-    - es5 function inside es5 function inside Object -> window
-    - es6 function inside es5 function inside Object -> Object
-    - understanding super keyword
-    - understanding call bind and apply methods
- - Advanced OOPS Concepts
-    - Class expressions
-    - hoisting 
-    - Inheritance
-    - Getters and Setters
+# Day 59 : Advance JS Class : 4 — 2.0 Job Ready AI Powered Cohort (Sheryians)
+Today's Topics :
+ - Introduction to asynchronous in JavaScript ✅
+ - Introduction to Callbacks and Callback Hell and problem in callback hell ✅
+ - understanding Event Loop in JavaScript ✅
+Next Topics :
+ - understanding async and await in JavaScript
+ - understanding Promises,pending,resolve,reject in JavaScript
+ - how to prevent callback hell using async await in JavaScript
+ - set interval and set timeout in JavaScript
 
- - Practice some Questions on OOPS and Advanced OOPS Concepts in JS   
