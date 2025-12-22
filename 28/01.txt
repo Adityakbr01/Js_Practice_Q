@@ -1,0 +1,5 @@
+# Day 61 : Advance JS Class : 5 — 2.0 Job Ready AI Powered Cohort (Sheryians)
+ - today Topics:
+  - Promises
+  - Async/Await
+  - setTimeout vs setInterval
