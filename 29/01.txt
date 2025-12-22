@@ -1,0 +1,7 @@
+# Day 62 : Advance JS Class : 6 — 2.0 Job Ready AI Powered Cohort (Sheryians)
+ - today Topics : 
+  - Introduction to error handling in JavaScript
+  - common error types [ SyntaxError, RuntimeError, Logical errors ]
+  - understanding the error object [ message, name, stack ]
+  - handing exceptions with try...catch and try...catch...finally
+  - throwing custom errors with throw statement
