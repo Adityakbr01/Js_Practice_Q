@@ -1,0 +1,5 @@
+# Day 64 : Advance JS Class : 8 — 2.0 Job Ready AI Powered Cohort (Sheryians)
+ - today Topics : 
+  - throttling and debouncing in JavaScript
+  - difference between throttling and debouncing
+  - jsonParse() and jsonStringify()
